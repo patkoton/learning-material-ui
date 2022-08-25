@@ -1,11 +1,10 @@
+import Buttom from './components/Buttom';
 import './index.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        Hi
-      </header>
+      <Buttom />
     </div>
   );
 }
